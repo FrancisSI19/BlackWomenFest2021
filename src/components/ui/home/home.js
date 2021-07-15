@@ -6,7 +6,7 @@ function Home() {
     <div className="home">
       <h1>Black Women Fest 2021</h1>
       <div className="home-logo">
-        <img src="blackwoman.png" />
+        <img src={"blackwoman.png"} />
       </div>
     </div>
   );
